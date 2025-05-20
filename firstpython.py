@@ -1,5 +1,4 @@
 #display output
-print("new python file")
 understanding = False
 if(understanding):
   print("i finally got it !")
